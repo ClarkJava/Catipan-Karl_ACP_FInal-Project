@@ -92,9 +92,9 @@ SOURCE schema.sql;
 # config.py
 DB_CONFIG = {
     'host': 'localhost',
-    'user': 'your_username',
-    'password': 'your_password',
-    'database': 'synching_together'
+    'user': 'root',
+    'password': '',
+    'database': 'synchingteam_db'
 }
 ```
 
